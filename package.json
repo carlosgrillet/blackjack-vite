@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "postbuild": "pwsh -c mv dist docs",
     "preview": "vite preview"
   },
   "devDependencies": {
